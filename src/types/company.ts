@@ -1,0 +1,8 @@
+export const COMPANY_INFO = {
+  name: 'REPERTOIRE CULINAIRE THAILAND',
+  address: [
+    '2080 RIMTANGRODFAI SAI PAKNAM RD.',
+    'PHRAKANONG, KLONGTOEY',
+    'BANGKOK 10260'
+  ]
+} as const;
